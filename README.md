@@ -4,25 +4,25 @@ title: Etch-a-Sketch 2025!!
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: LabSite
-  name: Experiments, Files, Collab
+  type: Lab-Site
+  name: Experiments, Files, Collab, CAP, Research
 ---
 
-# Repository for Experiments and More
+# Repository and Website for Experiments
 
-Shareable Project Files, Initial Analysis Scripts, and Open Sourced Experimental Methods!
+The repository is for a collaboration of experimental researchers in psychology, philosophy, health sciences and medicine. It contains project files, data, and analytic work for initial experiments, as well as a website to document the project and work. 
 
-List of Page Contents:
-*most of this is pending!*
-- Select Experiments on the Side - Or go to the [Etch a Sketch](announcements.md),
+List of Repo Contents:
+
+- [Site](https://annandct.github.io/EtchSketch-2025/) - The website for this page...
+- [Members](members.md) - Markdown Link / Site Link
 - [Notes](notes.md)
-- [Members](staff.md) 
 - [Publications](publications.md)
 
 
 ## Interested? Reach out
 
-Contact Amanda Haskell for more info (check the STAFF page) - or any of the other research collaborators. 
+CHeck out the Member or Staff Pages on the site if you have questions. 
 
 
 ### Tools Used for This
