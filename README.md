@@ -12,20 +12,17 @@ seo:
 
 Shareable Project Files, Initial Analysis Scripts, and Open Sourced Experimental Methods!
 
-- [Page 1](announcements.md),
-- a [course calendar](calendar.md),  (Pending)
-- a [staff](staff.md) page,
+List of Page Contents:
+*most of this is pending!*
+- Select Experiments on the Side - Or go to the [Etch a Sketch](announcements.md),
+- [Notes](notes.md)
+- [Members](staff.md) 
+- [Publications](publications.md)
 
-
-This templace includes features such as:
-
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
 
 ## Interested? Reach out
 
-Contact Amanda Haskell for more info (check the STAFF page)
+Contact Amanda Haskell for more info (check the STAFF page) - or any of the other research collaborators. 
 
 
 ### Tools Used for This

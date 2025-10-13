@@ -18,7 +18,7 @@ tagline: Coordinated Work - Coordinate GitSpace!
 description:  Cognition, Action, and Perception People from all over - studying how people behave in the world. 
 author: CTA & Others 
 #https://annandct.github.io/
-#baseurl: '/stats-statim' # the subpath of your site, e.g. /blog
+baseurl: '/contents' # the subpath of your site, e.g. /blog
 url: 'https://annandct.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -29,16 +29,19 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Colin Toussaint Annand:
+  CAP Lab:
+    - https://www.artsci.uc.edu/natural-sciences/psychology/academic-programs/phd/phd-program-tracks-and-emphasis-areas/behavioral-science-track/experimental.html
+  Colin @ Teaching Stats and Science:
     - 'https://colinannand.github.io'
-  My Standard Research Template:
-  - 'https://github.com/annandct/slick_research_template'
+  Francis @ Human Agility Lab:
+    - https://sites.northwestern.edu/agilitylab/
+
 footer_content:
 
 # Collections for website data
 collections:
   staffers:
-  modules:
+  experiments:
   schedules:
   announcements:
 # Default layouts for each collection type
@@ -53,14 +56,14 @@ defaults:
       width: 300
   - scope:
       path: ''
-      type: modules
+      type: experiments
     values:
-      layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
+      layout: experiment
+#  - scope:
+#      path: ''
+#      type: schedules
+#    values:
+#      layout: schedule
   - scope:
       path: ''
       type: announcements
