@@ -17,8 +17,8 @@ title: Etch-a-Sketch 2025!!
 tagline: Coordinated Work - Coordinate GitSpace!
 description:  Cognition, Action, and Perception People from all over - studying how people behave in the world. 
 author: CTA & Others 
-baseurl: '' # the subpath of your site - goes after domain name annandct.github.io/BLOG/.... - #leave blank
-url: 'https://annandct.github.io/EtchSketch-2025' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/EtchSketch-2025' # the subpath of your site - goes after domain name annandct.github.io/BLOG/.... - #leave blank
+url: 'https://annandct.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
