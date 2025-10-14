@@ -1,26 +1,30 @@
 ---
 layout: page
-title: Staff
+title: Research Staff
+nav_order: 2
 description: A listing of all the course staff members.
 ---
-
-# Staff
-
+<!--
 Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+-->
+# Researcher Staff
 
-## Instructors
+{% assign external = site.staffers | where: 'role', 'External' %}
+{% assign researcher = site.staffers | where: 'role', 'Researcher' %}
+{% assign num_researcher = researcher | size %}
+{% if num_researcher != 0 %}
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+## Experimenters 
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
-
-{% for staffer in teaching_assistants %}
+{% for staffer in researcher %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+## Collaborators
+
+
+{% for staffer in external %}
+{{ staffer }}
+{% endfor %}
+

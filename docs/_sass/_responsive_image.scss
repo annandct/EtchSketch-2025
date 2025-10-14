@@ -1,0 +1,14 @@
+// _sass/_responsive-image.scss
+
+.img-responsive {
+  // Ensures the image never grows larger than its container.
+  max-width: 100%;
+
+  // Maintains the image's aspect ratio as it scales.
+  height: auto;
+
+  // Optional: Centers the image if it's smaller than its container.
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

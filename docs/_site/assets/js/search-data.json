@@ -1,0 +1,212 @@
+{"0": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "About",
+    "content": " ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%20(Original)/#about",
+    
+    "relUrl": "/Etch-a-Sketch%20(Original)/#about"
+  },"1": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Table of contents",
+    "content": ". | Published as… | Abstract | Methods &amp; Files | Kelso Style Figures . | Fig 2 and 3 | . | . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%20(Original)/#table-of-contents",
+    
+    "relUrl": "/Etch-a-Sketch%20(Original)/#table-of-contents"
+  },"2": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Published as…",
+    "content": "Early learning differences between intra- and interpersonal interlimb coordination Human Movement Science, 2020. Highlights . | Dyads initially performed better than individuals at maintaining the unstable 90° relative phase coordination pattern. | Individuals had a greater rate of improvement than dyads, and group differences were not distinguishable after trial 2. | The simplified visual feedback display allowed rapid stabilization and learning of an unstable coordination pattern. | . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%20(Original)/#published-as",
+    
+    "relUrl": "/Etch-a-Sketch%20(Original)/#published-as"
+  },"3": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Abstract",
+    "content": "Intrinsic coordination patterns exist between limbs such that . | coordination at these states is inherently stable, | any other pattern requires learning to produce, and | this learning is subject to interference from a systemic bias towards intrinsic patterns. The dynamics that govern intrapersonal interlimb coordination also govern interpersonal coordination. However, intrapersonal coordination exhibits greater coupling strength and thus more stable intrinsic dynamics than interpersonal coordination. Because the strength of intrinsic coordination tendencies has consequences for learning coordination patterns, the differences in coupling strength between intra- and interpersonal coordination should impact the ability to perform new coordination patterns via greater or less interference from intrinsic dynamics. This was investigated by measuring participants’ performance as they learned a new coordination pattern alone (intrapersonal) or in pairs (interpersonal). Participants were implicitly tasked with learning the pattern as they separately controlled the vertical and horizontal position of an on-screen cursor to trace a circling target. We observed better performance of dyads on first trial and steeper learning trajectories for individuals. Overall, these results indicate that individuals experienced greater interference from stronger intrinsic coordination dynamics during early learning but could overcome this interference and achieve similar performance to that of dyads with very little practice. | . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%20(Original)/#abstract",
+    
+    "relUrl": "/Etch-a-Sketch%20(Original)/#abstract"
+  },"4": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Methods &amp; Files",
+    "content": "Pending… . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%20(Original)/#methods--files",
+    
+    "relUrl": "/Etch-a-Sketch%20(Original)/#methods--files"
+  },"5": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Kelso Style Figures",
+    "content": "Fig 2 and 3 . md version… . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%20(Original)/#kelso-style-figures",
+    
+    "relUrl": "/Etch-a-Sketch%20(Original)/#kelso-style-figures"
+  },"6": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Etch a Sketch (OG)",
+    "content": " ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%20(Original)/",
+    
+    "relUrl": "/Etch-a-Sketch%20(Original)/"
+  },"7": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "About",
+    "content": " ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%202025/#about",
+    
+    "relUrl": "/Etch-a-Sketch%202025/#about"
+  },"8": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Table of contents",
+    "content": ". | Description | Methods &amp; Files | Pubs &amp; More | . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%202025/#table-of-contents",
+    
+    "relUrl": "/Etch-a-Sketch%202025/#table-of-contents"
+  },"9": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Description",
+    "content": "Pending… . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%202025/#description",
+    
+    "relUrl": "/Etch-a-Sketch%202025/#description"
+  },"10": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Methods &amp; Files",
+    "content": "Pending… . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%202025/#methods--files",
+    
+    "relUrl": "/Etch-a-Sketch%202025/#methods--files"
+  },"11": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Pubs &amp; More",
+    "content": "Pending… . ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%202025/#pubs--more",
+    
+    "relUrl": "/Etch-a-Sketch%202025/#pubs--more"
+  },"12": {
+    "doc": "Etch a Sketch (OG)",
+    "title": "Etch a Sketch (OG)",
+    "content": " ",
+    "url": "/EtchSketch-2025/Etch-a-Sketch%202025/",
+    
+    "relUrl": "/Etch-a-Sketch%202025/"
+  },"13": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/EtchSketch-2025/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"14": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "/EtchSketch-2025/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"15": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "/EtchSketch-2025/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"16": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/EtchSketch-2025/default_pages/calendar/",
+    
+    "relUrl": "/default_pages/calendar/"
+  },"17": {
+    "doc": "Home",
+    "title": "About",
+    "content": " ",
+    "url": "/EtchSketch-2025/#about",
+    
+    "relUrl": "/#about"
+  },"18": {
+    "doc": "Home",
+    "title": "Table of contents",
+    "content": ". | Behold! The Etch a Sketch!! | Results | Resources | Goals | . ",
+    "url": "/EtchSketch-2025/#table-of-contents",
+    
+    "relUrl": "/#table-of-contents"
+  },"19": {
+    "doc": "Home",
+    "title": "Behold! The Etch a Sketch!!",
+    "content": "This genius experimental paradigm was stumbled upon by visiting scholar Ed Baggs. Imagine (said he) - if we were to track how a person learned to use such a device. The theories we could test! . Colin and Francis flung themselves to the task. And in short order a (research purpose only not for commerical use) experimental device called the Etch-Sketch was created. ",
+    "url": "/EtchSketch-2025/#behold-the-etch-a-sketch",
+    
+    "relUrl": "/#behold-the-etch-a-sketch"
+  },"20": {
+    "doc": "Home",
+    "title": "Results",
+    "content": "Surprisingly - the Etch a Sketch led to a few quality conference presentations and publications in Human Movement Science. ",
+    "url": "/EtchSketch-2025/#results",
+    
+    "relUrl": "/#results"
+  },"21": {
+    "doc": "Home",
+    "title": "Resources",
+    "content": "This site was put together by Colin T. Annand (see his info in the staff section). He’s held onto the experimental files for this experiment for quite a while, and is chuffed to see some positive momentum around the project. ",
+    "url": "/EtchSketch-2025/#resources",
+    
+    "relUrl": "/#resources"
+  },"22": {
+    "doc": "Home",
+    "title": "Goals",
+    "content": "Keep the circle spinning. ",
+    "url": "/EtchSketch-2025/#goals",
+    
+    "relUrl": "/#goals"
+  },"23": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/EtchSketch-2025/",
+    
+    "relUrl": "/"
+  },"24": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": " ",
+    "url": "/EtchSketch-2025/default_pages/schedule/#weekly-schedule",
+    
+    "relUrl": "/default_pages/schedule/#weekly-schedule"
+  },"25": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/EtchSketch-2025/default_pages/schedule/",
+    
+    "relUrl": "/default_pages/schedule/"
+  },"26": {
+    "doc": "Research Staff",
+    "title": "Researcher Staff",
+    "content": " ",
+    "url": "/EtchSketch-2025/staff/#researcher-staff",
+    
+    "relUrl": "/staff/#researcher-staff"
+  },"27": {
+    "doc": "Research Staff",
+    "title": "Experimenters",
+    "content": "Amanda Haskell . haskellam----@uc.mail.edu . Amanda - Philosopher, Builder and more - heads up the current iteration of the Etch a Sketch project. She is a CAP Lab Doctoral Student, with extensive hands on experience in medicine and care through working in Veterans Affairs. Her aim is to bring experimental rigor to philosophical inquiries and test human interactions with agents - from simple computer programs to the complex end processes of modern day AI agents. She can be via the CAP Lab webpage or direct email listed above. ",
+    "url": "/EtchSketch-2025/staff/#experimenters",
+    
+    "relUrl": "/staff/#experimenters"
+  },"28": {
+    "doc": "Research Staff",
+    "title": "Collaborators",
+    "content": "Colin Toussaint Annand Ph.D. stats@dispatch.mozmail.com . Colin was flung out of the academic vortex by pandemic perturbations in 2021. With PhD firmly grasped, he’s plyed his hand at stats, data-science, welding, UI/UX design, high performance coaching and hustling unsuspecting chess players. With a plethora of hobbies firmly established he felt safe enough to maintain employment without anything that could be considered serious commitment. He concurrently consults and teaches online courses for graduate and researchers to improve stats, coding, and research skills. Schedule an appointment . Francis Burrhuss Grover, Ph.D. francis.grover@northwestern.edu . Francis received his BA in Psychology in 2015 from the University of Connecticut with a research focus on human perceptual-motor behavior. He then enrolled in the Experimental Psychology doctoral program at the University of Cincinnati where he received his MA in 2018 and PhD in 2020 studying human perceptual-motor behavior from the perspectives of ecological psychology, complex dynamical systems, and neuromechanics. After graduating he worked as a Postdoctoral Fellow at Shirley Ryan AbilityLab in Chicago studying neurostimulation techniques to repair corticospinal connections after spinal cord injury. His research is broadly centered on the neuromechanical control of human movement. So far, his research has focused on fine motor skill and motor coordination, in particular manual dexterity, in both healthy individuals and those with motor pathology. He joined the Human Agility Lab in April 2022 to continue studying human movement from interdisciplinary behavioral and neuromechanical approaches. ",
+    "url": "/EtchSketch-2025/staff/#collaborators",
+    
+    "relUrl": "/staff/#collaborators"
+  },"29": {
+    "doc": "Research Staff",
+    "title": "Research Staff",
+    "content": " ",
+    "url": "/EtchSketch-2025/staff/",
+    
+    "relUrl": "/staff/"
+  }
+}
