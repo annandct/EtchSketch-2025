@@ -19,7 +19,7 @@ description:  Cognition, Action, and Perception People from all over - studying 
 author: CTA & Others 
 baseurl: '/EtchSketch-2025' # the subpath of your site - goes after domain name annandct.github.io/BLOG/.... - #leave blank
 url: 'https://annandct.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "_default_pages"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1

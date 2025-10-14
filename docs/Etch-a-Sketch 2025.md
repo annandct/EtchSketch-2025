@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Etch a Sketch (OG)
+title: Etch a Sketch 2025
 description: >-
-    Initial Research Project 2017 > 2020
+    Replication and Moving Forward!
 ---
 
 # About

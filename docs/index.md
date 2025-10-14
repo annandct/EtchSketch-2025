@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About
 nav_order: 1
 description: >-
     Reseach Landing Page

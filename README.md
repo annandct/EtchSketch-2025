@@ -13,7 +13,7 @@ seo:
 The repository is for a collaboration of experimental researchers in psychology, philosophy, health sciences and medicine. It contains project files, data, and analytic work for initial experiments, as well as a website to document the project and work. 
 
 List of Repo Contents:
-
+- [Build Guide](Build_Guide.md) @Amanda!! @Amanda!!
 - [Site](https://annandct.github.io/EtchSketch-2025/) - The website for this page...
 - [Members](members.md) - Markdown Link / Site Link
 - [Notes](notes.md)
